@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:Cep" 
+             x:Class="Cep.MainPage">
+    
+    <StackLayout>
+        
+        <Entry Text="Cep"
+               x:Name="txtCEP"
+               Placeholder="Insira um cep..."
+               FontSize="14"
+               Keyboard="Numeric"
+               Completed="Handle_Completed"/>
+        
+        <Label x:Name="lblLogradouro" />
+        
+        <Label x:Name="lblComplemento" />
+        
+        <Label x:Name="lblBairro" />
+        
+        <Label x:Name="lblLocalidade" />
+        
+        <Label x:Name="lblUf" />
+        
+        <Label x:Name="lblUnidade" />
+        
+        <Label x:Name="lblIBGE" />
+        
+        <Label x:Name="lblGIA" />
+        
+    </StackLayout>
+    
+</ContentPage>

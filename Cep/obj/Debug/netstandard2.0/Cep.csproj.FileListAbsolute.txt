@@ -1,0 +1,12 @@
+/Users/aluno/Projects/Cep/Cep/bin/Debug/netstandard2.0/Cep.deps.json
+/Users/aluno/Projects/Cep/Cep/bin/Debug/netstandard2.0/Cep.dll
+/Users/aluno/Projects/Cep/Cep/bin/Debug/netstandard2.0/Cep.pdb
+/Users/aluno/Projects/Cep/Cep/obj/Debug/netstandard2.0/Cep.csprojAssemblyReference.cache
+/Users/aluno/Projects/Cep/Cep/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/Cep/Cep/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/Cep/Cep/obj/Debug/netstandard2.0/Cep.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Cep/Cep/obj/Debug/netstandard2.0/Cep.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Cep/Cep/obj/Debug/netstandard2.0/Cep.AssemblyInfo.cs
+/Users/aluno/Projects/Cep/Cep/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/Cep/Cep/obj/Debug/netstandard2.0/Cep.dll
+/Users/aluno/Projects/Cep/Cep/obj/Debug/netstandard2.0/Cep.pdb
